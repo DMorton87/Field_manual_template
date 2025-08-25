@@ -8,4 +8,7 @@ Behold the links below:
 https://www.brunorochamoura.com/posts/field-manual/
 https://www.brunorochamoura.com/posts/field-manual/SlideDeck.pdf
 https://www.brunorochamoura.com/posts/cpts-tips/#take-detailed-and-structured-notes
+
+Image from: https://www.brunorochamoura.com/posts/cpts-tips/field-manual-structure.png
+
 <img width="573" height="9372" alt="field-manual-structure" src="https://github.com/user-attachments/assets/527c0d35-46ec-4510-9138-80cd7677e6eb" />
