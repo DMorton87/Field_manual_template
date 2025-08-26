@@ -5,7 +5,7 @@ I didn't invent this, but I painstakingly recreated it based on the the brillian
 I highly recommend checking out his blog entry on the subject and watching his HackSmarter presentation.
 
 Behold the links below:
-https://www.brunorochamoura.com/posts/field-manual/
+https://www.brunorochamoura.com/posts/field-manual/ \n
 https://www.brunorochamoura.com/posts/field-manual/SlideDeck.pdf
 https://www.brunorochamoura.com/posts/cpts-tips/#take-detailed-and-structured-notes
 
