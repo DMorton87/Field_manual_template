@@ -1,7 +1,7 @@
 # Field_manual_template
 This is an Obsidian template (markup) for a pentesting field manual, originally designed by Bruno Rochamoura for the CPTS exam. 
 It contains no information, just folders and empty notes for you to add your own content.
-I didn't invent this, but I painstakingly recreated it based on the the brilliant template provided by Bruno Rochamoura. 
+I didn't invent this, but I built it based on the file tree pictured below. 
 I highly recommend checking out his blog entry on the subject and watching his HackSmarter presentation.
 
 Behold the links below:
